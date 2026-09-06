@@ -1,0 +1,12 @@
+{
+  "name": "genpark-label-noise-confident-learning-pruner-skill",
+  "version": "1.0.0",
+  "description": "Confident learning joint distribution estimator identifying mislabeled training samples for data cleaning.",
+  "category": "AI Synthetic Data & Hallucination Benchmarks",
+  "runtime": "python3",
+  "entrypoint": "client.py",
+  "author": "GenPark AI",
+  "repository": "https://github.com/alphaparkinc/genpark-label-noise-confident-learning-pruner-skill",
+  "verified": true,
+  "stars": 8
+}
